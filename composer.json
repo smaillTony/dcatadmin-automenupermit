@@ -1,0 +1,19 @@
+{
+    "name": "smailltony/dcatadmin-automenupermit",
+    "description": "dcat-admin中，菜单修改时，自动同步权限",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smailltony\\DcatadminAutomenupermit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junwind",
+            "email": "865460609@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
